@@ -1,0 +1,9 @@
+streamlit>=1.35,<2
+torch>=2.2
+transformers>=4.40,<5
+spacy>=3.7,<4
+pandas>=2.1
+plotly>=5.20
+pymongo>=4.6
+python-dotenv>=1.0
+pytest>=8.0
